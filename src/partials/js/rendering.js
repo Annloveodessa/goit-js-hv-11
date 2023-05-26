@@ -45,7 +45,7 @@ function renderPicture(arr) {
   refs.gallery.insertAdjacentHTML('beforeend', markup);
 
     lightbox.refresh();
-    console.log("1")
+   
 }
 
 //функция очистки предыдущих результатов
