@@ -15,4 +15,3 @@ async function fetchPictures(searchValue, page) {
 }
 
 export { fetchPictures };
-
